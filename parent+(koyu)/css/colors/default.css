@@ -1,0 +1,90 @@
+.menu-top .active a,
+.menu-top .active a:focus,
+.menu-top .active a:hover {
+    color: #00D7C7;
+}
+.menu-top li a:hover {
+    color: #00D7C7;
+}
+.slider-right a {
+    background: #00D7C6;
+}
+.about-bottom-icon {
+    color: #00D7C6;
+}
+.team-bottom .owl-dot.active {
+    background: #00D7C7;
+}
+.client-slider .owl-dot.active {
+    background: #00D7C7;
+}
+.free-trial-content .trial-get {
+    background: #00D7C7;
+}
+.video-top-content i {
+    color: #00D7C6;
+}
+.screen-bottom-slide:hover {
+    border: 5px solid #00D7C7;
+}
+.screen-bottom .owl-dot.active {
+    background: #00D7C7;
+}
+.pricing-bottom {
+    border-top: 2px solid #00D7C6;
+}
+.pricing-bottom-list h1 {
+    color: #00D7C6;
+}
+.pricing-bottom-list a {
+    background: #00D7C6;
+}
+.footer-top-content h4 {
+    color: #00D7C6;
+}
+.trial-button {
+    background: #00D7C6;
+}
+.scrollToTop {
+    border: 2px solid #00D7C6;
+}
+.scrollToTop:hover,
+.scrollToTop:focus {
+    border: 2px solid #00D7C6;
+}
+.scrollToTop .scroll-i {
+    color: #00D7C6;
+}
+.blog-menu ul li.activv a {
+    color: #00D7C6;
+}
+.latest-blog-post h4 a {
+    color: #00D7C6;
+}
+.blog-arrow ul li a:hover {
+    border: 2px solid #00D7C6;
+}
+.blog-side-search i {
+    color: #00D7C6;
+}
+.blog-details-para p.activv {
+    color: #00D7C6;
+}
+.blog-details-like ul li a i {
+    color: #00D7C6;
+}
+.blog-comment-txt .reply span {
+    color: #00D7C6;
+}
+.single-form input:hover, .single-form textarea:hover {
+    border: 1px solid #00D7C6;
+}
+.single-form button:hover {
+    color: #00D7C6;
+}
+.four04-content h2 {
+    color: #00D7C6;
+}
+.four04-content a:hover {
+    color: #00D7C6;
+}

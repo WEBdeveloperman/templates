@@ -1,0 +1,90 @@
+.menu-top .active a,
+.menu-top .active a:focus,
+.menu-top .active a:hover {
+    color: #FFD302;
+}
+.menu-top li a:hover {
+    color: #FFD302;
+}
+.slider-right a {
+    background: #FFD302;
+}
+.about-bottom-icon {
+    color: #FFD302;
+}
+.team-bottom .owl-dot.active {
+    background: #FFD302;
+}
+.client-slider .owl-dot.active {
+    background: #FFD302;
+}
+.free-trial-content .trial-get {
+    background: #FFD302;
+}
+.video-top-content i {
+    color: #FFD302;
+}
+.screen-bottom-slide:hover {
+    border: 5px solid #FFD302;
+}
+.screen-bottom .owl-dot.active {
+    background: #FFD302;
+}
+.pricing-bottom {
+    border-top: 2px solid #FFD302;
+}
+.pricing-bottom-list h1 {
+    color: #FFD302;
+}
+.pricing-bottom-list a {
+    background: #FFD302;
+}
+.footer-top-content h4 {
+    color: #FFD302;
+}
+.trial-button {
+    background: #FFD302;
+}
+.scrollToTop {
+    border: 2px solid #FFD302;
+}
+.scrollToTop:hover,
+.scrollToTop:focus {
+    border: 2px solid #FFD302;
+}
+.scrollToTop .scroll-i {
+    color: #FFD302;
+}
+.blog-menu ul li.activv a {
+    color: #FFD302;
+}
+.latest-blog-post h4 a {
+    color: #FFD302;
+}
+.blog-arrow ul li a:hover {
+    border: 2px solid #FFD302;
+}
+.blog-side-search i {
+    color: #FFD302;
+}
+.blog-details-para p.activv {
+    color: #FFD302;
+}
+.blog-details-like ul li a i {
+    color: #FFD302;
+}
+.blog-comment-txt .reply span {
+    color: #FFD302;
+}
+.single-form input:hover, .single-form textarea:hover {
+    border: 1px solid #FFD302;
+}
+.single-form button:hover {
+    color: #FFD302;
+}
+.four04-content h2 {
+    color: #FFD302;
+}
+.four04-content a:hover {
+    color: #FFD302;
+}
